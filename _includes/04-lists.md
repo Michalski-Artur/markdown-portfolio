@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* :pizza:
+* :bike:
+* :ski:
+  1. say
+  2. hi
+  3. hello
+
